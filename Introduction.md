@@ -25,24 +25,24 @@ People seem to be more and more concerned about environment but I think they do 
 
 Some of the pollutions and facilities described above are not relevant in the city of Paris. Some others might not be measurable with available datas. 
 We will not take into account types of pollution that are not relevant at the neighborhood scale: 
-⋅⋅* Light pollution which is a global city issue ; 
-⋅⋅* Visual pollution which depends on the viewpoint ; 
-⋅⋅* Plastic pollution, a global and very local issue but akin to littering in this context ; 
-⋅⋅* Littering : Depends on the practices of the passersby and the inhabitants more than on the environment.
-⋅⋅* Thermal pollution (elevation of water temperature) for which there is no data ;
-⋅⋅* Soil contamination which is not relevant in a mostly urban ground ;
-⋅⋅* Water pollution : The quality of water is controlled to respect the legislation. However, water pollution can come from private equipment (lead pipe). It would be more relevant to measure the quality of water at the taps of the apartment.
+- Light pollution which is a global city issue ; 
+- Visual pollution which depends on the viewpoint ; 
+- Plastic pollution, a global and very local issue but akin to littering in this context ; 
+- Littering : Depends on the practices of the passersby and the inhabitants more than on the environment.
+- Thermal pollution (elevation of water temperature) for which there is no data ;
+- Soil contamination which is not relevant in a mostly urban ground ;
+- Water pollution : The quality of water is controlled to respect the legislation. However, water pollution can come from private equipment (lead pipe). It would be more relevant to measure the quality of water at the taps of the apartment.
 
-Available data includes :
+## Available data includes :
 
-⋅⋅* Air pollution : Airparif
-⋅⋅* Noise pollution : BruitParif mais il faut convertir les données
-⋅⋅* Radioactive pollution : Base de mesure de la radiation OpenRadiation (+ explication concernant l’intérêt :Sites radioactifs de Paris + paragraphe sur le radon dont le niveau est faible sur tout Paris (avec explication))
+- Air pollution : Airparif
+- Noise pollution : BruitParif mais il faut convertir les données
+- Radioactive pollution : Base de mesure de la radiation OpenRadiation (+ explication concernant l’intérêt :Sites radioactifs de Paris + paragraphe sur le radon dont le niveau est faible sur tout Paris (avec explication))
 
 
-⋅⋅* Green areas : surface d'espaces verts rapportée à la surface totale du quartier et rapportée à la population
-⋅⋅* Squares areas : surface de square rapportée à la surface totale du quartier et rapporté à la population
-⋅⋅* Number of trees : densité d’arbre
-⋅⋅* Water facilities : nombre de fontaines et jets d'eaux
+- Green areas : surface d'espaces verts rapportée à la surface totale du quartier et rapportée à la population
+- Squares areas : surface de square rapportée à la surface totale du quartier et rapporté à la population
+- Number of trees : densité d’arbre
+- Water facilities : nombre de fontaines et jets d'eaux
 
 
