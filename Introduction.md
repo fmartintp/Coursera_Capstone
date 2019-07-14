@@ -35,14 +35,14 @@ We will not take into account types of pollution that are not relevant at the ne
 
 ## Available data includes :
 
-- Air pollution : Airparif
-- Noise pollution : BruitParif mais il faut convertir les données
-- Radioactive pollution : Base de mesure de la radiation OpenRadiation (+ explication concernant l’intérêt :Sites radioactifs de Paris + paragraphe sur le radon dont le niveau est faible sur tout Paris (avec explication))
+- Map of Paris : available on Data.gouv (official French open data website).
+- Air pollution : From Airparif, measures from the officials to define the level of air pollution in the Paris area. Data available in csv with the locatisation of the stations.
+- Noise pollution : From BruitParif, measures from the officials to define the noise level in the Paris area. Datas are formated for GIS analysis but it can be converted with Python.
+- Radioactive pollution : Open database of radioactive measures in Paris, made by citizens with localisation.
 
 
-- Green areas : surface d'espaces verts rapportée à la surface totale du quartier et rapportée à la population
-- Squares areas : surface de square rapportée à la surface totale du quartier et rapporté à la population
-- Number of trees : densité d’arbre
-- Water facilities : nombre de fontaines et jets d'eaux
+- Green areas and square areas : available on FourSquare. The surface can be find on the French Wikipedia page of green areas and squares in Paris.
+- Number of trees : Localisations of trees in Paris are available on opendata.paris.fr
+- Water facilities : Localisations are available on opendata.paris.fr
 
 
